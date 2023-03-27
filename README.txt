@@ -1,0 +1,1 @@
+This package will contain a class to establish database connection and also another class that handles the user defined exception.
